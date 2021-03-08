@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="symmetry-frame.svg"
+   id="svg3725"
+   version="1.1"
+   height="26.456694"
+   width="79.370079">
+  <metadata
+     id="metadata3731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Допуск симметричности. Symmetry – tech drawing symbol (FreeCAD) https://freecad-gost.ru</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3729" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:current-layer="svg3725"
+     inkscape:window-maximized="1"
+     inkscape:window-y="598"
+     inkscape:window-x="54"
+     inkscape:cy="56.934923"
+     inkscape:cx="37.365286"
+     inkscape:zoom="4.6845824"
+     showgrid="false"
+     id="namedview3727"
+     inkscape:window-height="1015"
+     inkscape:window-width="1618"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <!-- https://tamirov.ru edited -->
+  <title
+     id="title3715">Допуск симметричности. Symmetry – tech drawing symbol (FreeCAD) https://freecad-gost.ru</title>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.32283;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect923"
+     width="78.047249"
+     height="25.133858"
+     x="0.66141498"
+     y="0.66141498" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 27.148622,0 V 26.456693"
+     id="path1141" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2283px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953"
+     x="32.099072"
+     y="18.894554"
+     id="text3290-89-0-5"
+     freecad:editable="value"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2283px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:3.77953"
+       id="tspan3292-3-2-8"
+       x="32.099072"
+       y="18.894554">...</tspan></text>
+  <g
+     style="stroke-width:2.04803"
+     transform="matrix(0.5069322,0,0,0.47030141,1.115702,-10.286724)"
+     id="g3817">
+    <path
+       d="M 5,50 H 47"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4.09607"
+       id="path3811" />
+    <path
+       d="M 11,40 H 41"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4.09607"
+       id="path3813" />
+    <path
+       d="M 11,60 H 41"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4.09607"
+       id="path3815" />
+  </g>
+</svg>
